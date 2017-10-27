@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Emanuel Pelean
+// English to Pig Latin Translator
+
 public class PigLatin {
 
 	public static void main(String[] args) {
